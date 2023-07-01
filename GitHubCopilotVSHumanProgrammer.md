@@ -1,0 +1,11 @@
+| | AI Pair Programmer (GitHub Copilot) | Human Pair Programmer |
+| -- | -- | -- |
+| Availability | 24/7, no breaks, can be used at any time | Have specific working hours, and may not always be available when needed |
+| Learning Capability | Does not learn from the specific interactions or mistakes. It doesn't improve its understanding of the project over time. NOTE: but this is being improved be AI specialists | A human partner can learn from mistakes, gain a better understanding of the project over time, and adapt their behavior accordingly. |
+| Contextual Understanding | Limited understanding of the larger context of a project. Generates code based on patterns it recognizes from its training data | Has (or may have :)) a deep understanding of the project's context and can make decisions based on that understanding. |
+| Communication | AI can only interact through the code it generates or suggests. It cannot discuss problems or brainstorm solutions. | Humans can discuss, brainstorm, and bounce ideas off each other. This communication often leads to better problem-solving and more innovative solutions. |
+| Code Review | Can generate suggestions for code, but cannot effectively review code for logic errors, style, or efficiency. | Can review code for errors, adherence to style guides, and overall quality. Can also suggest improvements. |
+| Experience and Expertise | Has a broad but shallow "experience" based on the code it was trained on. Its suggestions may not always adhere to best practices. | Has specific areas of deep expertise, based on education and experience. Can provide insights and best practices based on this expertise. |
+| Error Correction | May generate suboptimal or even incorrect code, depending on the context. | Can recognize and correct errors in logic or code structure. |
+| Creativity | Limited to patterns recognized from its training data. It can't generate truly innovative solutions. | Can come up with creative and innovative solutions to complex problems. |
+| Ethics and Values | Cannot understand or adhere to ethical guidelines or company values beyond what's programmed into it. | Understands and can work within ethical guidelines and company values. |
